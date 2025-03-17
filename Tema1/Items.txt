@@ -1,0 +1,8 @@
+2  
+2 
+1 Item1 100.5 Electronice 10 4.5 "Descriere pentru item 1"
+2 Item2 200.0 Cosmetice 5 4.0 "Descriere pentru item 2"
+3
+3 Item3 150.0 Electronice 7 4.3 "Descriere pentru item 3"
+4 Item4 250.0 Cosmetice 4 4.8 "Descriere pentru item 4"
+5 Item5 350.0 Electrocasnice 2 4.1 "Descriere pentru item 5"
