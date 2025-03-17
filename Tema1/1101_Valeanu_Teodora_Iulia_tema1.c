@@ -298,3 +298,4 @@ void main() {
 	dezalocareVectorDeVectori(&vectorDeVectori, &nrElemente, nrVectori);
 
 }
+//autoevaluare: 10
