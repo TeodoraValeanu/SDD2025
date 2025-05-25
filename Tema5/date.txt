@@ -1,0 +1,10 @@
+4
+1 ConferintaAI Google 2023 10000 Bucuresti 3
+2 ConfTech Microsoft 2023 7000 Cluj 2
+3 DataFest IBM 2022 3000 Iasi 4
+4 DevSummit Amazon 2023 9000 Bucuresti 3
+4
+0 1
+1 2
+2 3
+3 0
